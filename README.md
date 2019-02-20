@@ -7,7 +7,7 @@ The data set was obtained from `kaggle` and can be downloaded [here](https://www
 
 The classification model was built using tensorflow's estimator API.
 
->**NOTE:** The whole procedure is probably better explained on the jupyter notebook, if you want to see all the code and how everything was done, look at the noteebok file rendered via nbviewer clicking [here](https://nbviewer.jupyter.org/github/edghyhdz/precipitation_bias/blob/master/Precipitation_bias_example.ipynb), otherwise just click on the `Fraud_detection_classifier.ipynb` file on this repository. **The table of contents does not work when rendered via GITHUB!** 
+>**NOTE:** The whole procedure is probably better explained on the jupyter notebook, if you want to see all the code and how everything was done, look at the noteebok file rendered via nbviewer clicking [here](https://nbviewer.jupyter.org/github/edghyhdz/fraud_detection_classifier/blob/master/Fraud_detection_classifier.ipynb), otherwise just click on the `Fraud_detection_classifier.ipynb` file on this repository. **The table of contents does not work when rendered via GITHUB!** 
 
 Otherwise you can continue reading here, where just a summary of the whole analysis is presented.
 
