@@ -55,7 +55,7 @@ Meaning that most likely we will not be using the entire data set to train the m
 
 # 2 Proposed problem solution
 
-The graph on the left, shows a sample fraccion (`5%`) of `amount` vs `oldbalanceOrg` for the case in which `isFraud == 0`. The shaded line indicates when an overlapp between `isFraud == 1` and `isFraud == 0` is happening. Meaning that we can keep the data which lies inside the shaded area. And thus, use it in order to build our model.
+The graph on the left, shows a sample fraccion (`5%`) of `amount` vs `oldbalanceOrg` for the case in which `isFraud == 0`. The shaded area indicates when an overlapp between `isFraud == 1` and `isFraud == 0` is present. Meaning that we can keep the data which lies inside the shaded area. And thus, use it in order to build our model.
 
 Once the data outside the shaded area has been removed, we obtain what is displayed on the right graph. 
 
