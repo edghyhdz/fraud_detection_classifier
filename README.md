@@ -1,6 +1,5 @@
 # Fraud detection classifier
-
-In this notebook it is presented how the data was firstly delved with, how it was processed and prepared in order to build a binary classification model, which eventually indicate whether a transaction was fraudulent or not.
+It is presented in this notebook how the data was firstly delved with, how it was processed and prepared in order to build a binary classification model, which eventually indicate whether a transaction was fraudulent or not.
 
 The data set was obtained from `kaggle` and can be downloaded [here](https://www.kaggle.com/ntnu-testimon/paysim1/kernels). It is a syntetically generated data set `"[using] aggregated data from [a] private dataset to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behaviour to later evaluate the performance of fraud detection methods"` [<sup>1</sup>](https://www.kaggle.com/ntnu-testimon/paysim1/home). It consists of 6 million data rows, containing financial information of transactions and current account status. 
 
