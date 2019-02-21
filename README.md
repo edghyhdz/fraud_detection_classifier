@@ -47,7 +47,7 @@ Seeing how many fraud events were labeled in the whole data period. There were o
 
 ## 1.2 Looking for data correlation
 
-As seen below in the graphs, we can see that in the upper left graph there is a clear log<sub>10</sub> correlation between `oldbalanceOrg` vs `amount` where `isFraud == 1`. We may probably use this to our advantage when defining which type of model we will be using, as well as what the validation and training sets will be.
+As seen below, we can notice that in the upper left graph there is a clear log<sub>10</sub> correlation between `oldbalanceOrg` vs `amount` where `isFraud == 1`. We may probably use this to our advantage when defining which type of model we will be using, as well as what the validation and training sets will be.
 
 Meaning that most likely we will not be using the entire data set to train the model
 <img align="left" width="120%" height="120%" src="https://github.com/edghyhdz/fraud_detection_classifier/blob/master/images/data_exp_2.jpeg">
