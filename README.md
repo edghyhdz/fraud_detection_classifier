@@ -73,7 +73,7 @@ In order to validate the model, it was decided to use a `4fold Cross-validation`
 
 The way in which the data was split, was by following a `stratified` splitting, which returns stratified folds of training and validation data. An example of the stratified folds is shown in the image below. 
 
-<img align="center" width="70%" height="70%" src="https://github.com/edghyhdz/fraud_detection_classifier/blob/master/images/cross_val.jpeg">
+<img align="center" width="70%" height="70%" src="https://github.com/edghyhdz/fraud_detection_classifier/blob/master/images/cross_val_2.png">
 
 
 These files are also included under the `cross_val_folds` [folder](https://github.com/edghyhdz/fraud_detection_classifier/tree/master/cross_val_folds)
